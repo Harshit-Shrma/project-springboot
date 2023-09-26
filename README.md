@@ -7,7 +7,7 @@ Intellij-Idea
 Postman Client
 SQL Workbench
 
-### Getting Started
+# Getting Started
 Installation 
 we need to install
 
